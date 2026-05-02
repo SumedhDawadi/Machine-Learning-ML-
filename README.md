@@ -526,7 +526,8 @@ Without this special plug, AI stays lonely and less useful, like a robot with no
 The AI would stay stuck in its own room. It couldn’t easily reach your photos, documents, search the latest news, or use special tools. It would give more wrong or old answers, and every company would have to build different messy connections every time — making AI slower, weaker, and harder to use. It would feel like a smart robot with no hands or eyes to the real world!
 
 ### Pratical use-case of MCP
-Example 01 - Imagine you have a homework folder on your computer with your science project inside.
+
+### Example 01 - Imagine you have a homework folder on your computer with your science project inside.
 Here’s what happens when you say:
 “AI, look at my homework folder and help me make it better.”
 
